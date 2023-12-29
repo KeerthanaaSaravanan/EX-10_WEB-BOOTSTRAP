@@ -55,7 +55,7 @@ REGISTER NO:212223240070
 
 ```
 # OUTPUT:10(a):
-
+![a](https://github.com/KeerthanaaSaravanan/EX-10_WEB-BOOTSTRAP/assets/145742596/be81767d-760e-4f57-9223-8f6f234b418a)
 
 
 # RESULT:
@@ -121,8 +121,7 @@ REGISTER NO:212223240070
 
 ```
 # OUTPUT:10(b):
-
-
+![b](https://github.com/KeerthanaaSaravanan/EX-10_WEB-BOOTSTRAP/assets/145742596/1f36d14f-cf2c-41b8-b6d2-f4953e2804bc)
 
 # RESULT:
 This code creates a Responsive student registration form for ABC Engineering College built with Bootstrap.
@@ -199,7 +198,7 @@ REGISTER NO:212223240070
 ```
 # OUTPUT:10(c):
 
-
+![c](https://github.com/KeerthanaaSaravanan/EX-10_WEB-BOOTSTRAP/assets/145742596/c8ae14af-7c4c-43b2-989c-46b1331bc9c3)
 
 # RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
@@ -273,8 +272,7 @@ REGISTER NO:212223240070
 
 ```
 # OUTPUT:10(d):
-
-
+![d](https://github.com/KeerthanaaSaravanan/EX-10_WEB-BOOTSTRAP/assets/145742596/a469e4a1-dec4-4151-9bba-ee7d0d396c91)
 
 # RESULT:
 This code creates a basic email login form in Bootstrap with validation function.
